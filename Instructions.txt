@@ -1,0 +1,9 @@
+1.	Install nvm to have version control https://github.com/coreybutler/nvm-windows/releases
+2.	Install version 13.8.0: in Command Prompt run: nvm install 13.8.0
+3.	Set required version as default: nvm use 13.8.0 --default
+4.	Install npm.
+
+5.	Extract rar to folder
+6.	Open CMD to the folder
+7.	Run npm install
+8.	Run npm start
